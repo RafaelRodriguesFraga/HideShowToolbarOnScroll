@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">HideToolbarOnScroll</string>
+    <string name="long_random_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
+        ullamcorper, quam non dignissim feugiat, nisi felis posuere purus, a molestie elit ipsum
+        eget urna. Curabitur lobortis massa vitae purus aliquet ullamcorper. Nam felis ligula,
+        dictum sed condimentum vitae, tempus sit amet arcu. Nullam in neque suscipit, accumsan
+        nisi eget, interdum risus. Mauris tempus semper mi, quis finibus tellus cursus ac. Orci
+        varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis vel
+        leo magna. Etiam viverra vehicula neque, id congue tortor interdum vel. Curabitur elementum
+        est ut nibh venenatis, et malesuada libero suscipit. Praesent quis venenatis lorem, eu
+        commodo ante. Vestibulum sed dui leo. Donec sed arcu ac magna ornare porttitor. Sed lorem
+        mi, fringilla ac facilisis eu, tempor eu purus.</string>
 </resources>
